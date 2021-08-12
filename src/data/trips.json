@@ -1,0 +1,27 @@
+[
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "alt": "Desert",
+        "name": "Walking through desert",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-2.jpg",
+        "alt": "Water Fall",
+        "name": "Water fall in forest",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-3.jpg",
+        "alt": "Ha Long Bay",
+        "name": "HaLong on the top Mountain",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-4.jpg",
+        "alt": "Nha Trang Beach",
+        "name": "Nha Trang Viet Nam",
+        "button": "View Nha Trang"
+    }
+
+]
